@@ -24,4 +24,6 @@ If you are interested in exploring everything this darknet marketplace offers, p
 <a href="http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion"><img src="/icons/white.webp" alt="image" style="max-width: 100%;"><a>  
 <a href="http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion"><img src="/icons/restore.webp" alt="image" style="max-width: 100%;"><a>
 
-Update:  18 July 2025
+
+
+Update:  07/21/2025 Resolved dead links in migration guide
