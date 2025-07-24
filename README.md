@@ -26,4 +26,6 @@ If you are interested in exploring everything this darknet marketplace offers, p
 
 
 
-Update:  07/21/2025 Resolved dead links in migration guide
+
+
+Update: url is now active
